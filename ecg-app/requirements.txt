@@ -1,0 +1,10 @@
+customtkinter
+tkiner
+CTkMessagebox
+CTkToolTip
+numpy
+matplotlib
+pandas
+scipy
+pyserial
+Pillow
