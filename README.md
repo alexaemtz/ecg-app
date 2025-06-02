@@ -26,7 +26,7 @@ Aplicación profesional de análisis de ECG de 1 derivación, diseñada para adq
 
 ## 🖥️ Capturas de Pantalla
 
-![Vista principal de la app](assets/main_window.png)
+![Vista principal de la app](ecg-app/assets/main_window.png)
 
 ---
 
