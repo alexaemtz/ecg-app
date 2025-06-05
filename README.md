@@ -34,7 +34,7 @@ Aplicación profesional de análisis de ECG de 1 derivación, diseñada para adq
 
 ## Uso
 ### Ejecución principal
-*python main.py*
+*python main.py*  
 **Configuración:**
 - Selecciona el puerto COM adecuado desde la interfaz
 - Ajusta el baud rate de ser necesario
@@ -45,19 +45,19 @@ Aplicación profesional de análisis de ECG de 1 derivación, diseñada para adq
 
 ### Estructura del Proyecto
 
-ecg-app/
-├── main.py
-├── modules/
-│   ├── com.py
-│   ├── csv_loader.py
-├── themes/
-│   └── medical.json
-│   └── ....
-├── assets/
-│   └── icons
-│       └── ...
-├── requirements.txt
-└── README.md
+ecg-app/  
+├── main.py  
+├── modules/  
+│   ├── com.py  
+│   ├── csv_loader.py  
+├── themes/  
+│   └── medical.json  
+│   └── ....  
+├── assets/  
+│   └── icons  
+│       └── ...  
+├── requirements.txt  
+└── README.md  
 
 ---
 ## 🚀 Instalación
