@@ -15,7 +15,7 @@ class MainWindow():
         super().__init__()
         self.root = ctk.CTk()
         self.root.title("Monitor de ECG")
-        self.root.geometry("1500x1000")
+        self.root.geometry("1900x1010")
         self.root.iconbitmap("assets/icons/ecg.ico")
         self.root.protocol("WM_DELETE_WINDOW", self.on_closing)
 
