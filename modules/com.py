@@ -24,7 +24,7 @@ plt.rcParams['font.sans-serif'] = ['Tahoma', 'DejaVu Sans',
                                'Lucida Grande', 'Verdana']
 
 class ComunicationGUI(ctk.CTkFrame):
-    def __init__(self, root, host='192.168.135.9', port=5000):
+    def __init__(self, root, host='XXX.XXXX.XXX.X', port=5000):
         """Constructur de la ventana de comunicación"""
         super().__init__(master=root, border_width=1, border_color="white", corner_radius=10)
         self.pack(padx=10, pady=10, anchor="nw", fill="both", expand=True)
